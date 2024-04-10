@@ -1,0 +1,34 @@
+credentials:
+  usernames:
+    administrators:
+      email: rui.bao@syntun.com
+      logged_in: False 
+      name: "管理员"
+      password: administrators 
+      
+    Data_assets:
+      email: bb19730521@163.com
+      logged_in: False 
+      name: "数据分析"
+      password:  Data_assets 
+
+    Analytics:
+      email: bb19730521@163.com
+      logged_in: False 
+      name: "商业分析"
+      password:  Analytics 
+
+    Data_science:
+      email: bb19730521@163.com
+      logged_in: False 
+      name: "数据科学"
+      password:  Data_science 
+
+cookie:
+  expiry_days: 30
+  key: some_signature_key 
+  name: some_cookie_name
+
+preauthorized:
+  emails:
+  - melsby@gmail.com
